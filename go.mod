@@ -3,6 +3,7 @@ module github.com/bhanupbalusu/ecommerce_v0.1
 go 1.17
 
 require (
+	github.com/go-chi/chi v1.5.4 // indirect
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
